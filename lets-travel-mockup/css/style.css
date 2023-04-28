@@ -1,0 +1,30 @@
+.mn-block-md > div{
+	height: 120px;
+	border: 2px solid #e6d7b3;
+}
+.mn-text-warning > div{
+	background-color: orange;
+}
+.container-fluid {
+	justify-content: flex-end !important;
+}
+
+/* .d-flex {
+	display: flex !important;
+	justify-content: flex-end !important;
+} */
+.sld{
+    padding-top: 30px;
+}
+.btn-outline-success{
+	border-color: blue !important;
+	color: blue !important;
+}
+
+footer {
+	display: flex;
+}
+
+.btn-primary{
+	justify-content: space-between !important;
+}
